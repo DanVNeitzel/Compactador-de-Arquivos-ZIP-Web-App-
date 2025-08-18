@@ -1,0 +1,38 @@
+body {
+      padding-top: 50px;
+    }
+
+    .custom-card {
+      max-width: 650px;
+      margin: auto;
+      border-radius: 15px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    #drop-zone {
+      border: 2px dashed var(--bs-secondary);
+      border-radius: 10px;
+      padding: 30px;
+      text-align: center;
+      color: var(--bs-secondary);
+      cursor: pointer;
+      margin-bottom: 20px;
+      background-color: var(--bs-dark-bg-subtle);
+    }
+
+    #drop-zone.dragover {
+      background-color: var(--bs-secondary-bg);
+      border-color: var(--bs-primary);
+      color: var(--bs-primary);
+    }
+
+    .progress {
+      height: 20px;
+    }
+
+    .theme-toggle {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 1000;
+    }
