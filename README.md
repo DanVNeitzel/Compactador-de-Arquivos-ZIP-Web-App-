@@ -1,3 +1,5 @@
+**[Preview](https://danvneitzel.github.io/Compactador-de-Arquivos-ZIP-Web-App-/)**
+
 # 📂 Compactador de Arquivos ZIP (Web App)
 
 Este projeto é um **aplicativo web** que permite **compactar arquivos e
@@ -30,7 +32,7 @@ uma interface moderna, responsiva e fácil de usar.
 ------------------------------------------------------------------------
 
 ## 🛠️ Tecnologias Utilizadas
-
+    
 -   **[Bootstrap 5](https://getbootstrap.com/)** -- Layout e
     responsividade.\
 -   **[Bootstrap Icons](https://icons.getbootstrap.com/)** -- Ícones
